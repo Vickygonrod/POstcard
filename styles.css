@@ -46,7 +46,7 @@ body {
 }
 input {
 	border: none;
-	border-bottom: rgba(128, 128, 128, 0.731);
+	border-bottom: 1px solid rgba(128, 128, 128, 0.731);
 }
 p {
 	font-size: medium;
@@ -58,3 +58,5 @@ button {
 	background-color: green;
 	padding: 20%;
 }
+
+				
